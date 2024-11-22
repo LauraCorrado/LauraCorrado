@@ -1,6 +1,5 @@
-<div align="center">
 ## Hi there! 😊
-</div>
+
 My name is Laura, **JR Full Stack web dev**. I welcome you to my GitHub profile!
 
 - 🌱 I am currently learning **React** and **Inertia.js**
