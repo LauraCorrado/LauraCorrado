@@ -7,7 +7,13 @@ My name is Laura, I welcome you to my GitHub profile!
 - 🦝 If it wasn't clear from the profile picture, the raccoon is my guide animal.
 - 📫 How to reach me: [lauracorrado0696@gmail.com](mailto:lauracorrado0696@gmail.com)
 - 🔗 Link: [Visit my LinkedIn profile]([https://www.linkedin.com/in/tuo-nome](https://www.linkedin.com/in/laura-corrado-b95206268/)
-  
+
+```javascript
+  let greetings = "Live long and prosper"
+  console.log(greetings)
+```
+
+  ### Summary of my technical skills:
 ![HTML](https://img.shields.io/badge/HTML-%20-orange)
 ![CSS](https://img.shields.io/badge/CSS-%20-blue)
 ![SCSS](https://img.shields.io/badge/SCSS-%20-pink)
