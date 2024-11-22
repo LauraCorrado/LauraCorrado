@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 😊
 My name is Laura, I welcome you to my GitHub profile!
 
 - 🌱 I am currently learning React and Inertia.js
