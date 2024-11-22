@@ -1,5 +1,5 @@
 ## Hi there! 😊
-My name is Laura, I welcome you to my GitHub profile!
+My name is Laura, JR Full Stack web dev. I welcome you to my GitHub profile!
 
 - 🌱 I am currently learning React and Inertia.js
 - 🧠 My tech stack includes: HTML, CSS, SCSS, Javascript, VueJS, PHP, Laravel, MySQL, jQuery and many tools such as Npm, Postman, Git, VsCode, Github (for personal projects and collaborations)
